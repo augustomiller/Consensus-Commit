@@ -96,7 +96,7 @@ closes issue #12
 | Work in progress           | :construction:  `:construction:`              |
 | Adding CI build system     | :construction_worker: `:construction_worker:` |
 | Analytics or tracking code | :chart_with_upwards_trend: `:chart_with_upwards_trend:` |
-| Removing a dependency      | :heavy_minus_sign: `:heavy_minus_sign:`       |
+| Removing a dependency      |  ⎽ `:heavy_minus_sign:`       |
 | Adding a dependency        | :heavy_plus_sign: `:heavy_plus_sign:`         |
 | Docker                     | :whale: `:whale:`                             |
 | Configuration files        | :wrench: `:wrench:`                           |
