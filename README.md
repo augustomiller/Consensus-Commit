@@ -76,7 +76,7 @@ closes issue #12
 | Cosmetic                   | :lipstick: `:lipstick:`                       |
 | Tests                      | :rotating_light: `:rotating_light:`           |
 | Adding a test              | :white_check_mark: `:white_check_mark:`       |
-| Make a test pass           | :heavy_check_mark: `:heavy_check_mark:`       |
+| Make a test pass           |  ✓ `:heavy_check_mark:`       |
 | General update             | :zap: `:zap:`                                 |
 | Improve format/structure   | :art: `:art:`                                 |
 | Refactor code              | :hammer: `:hammer:`                           |
